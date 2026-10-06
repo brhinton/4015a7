@@ -1,0 +1,12 @@
+# Only manifests, signatures, timestamps and public keys are committed.
+# Images live in the public bucket; post text stays local.
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+*.html
+*.md
+!README.md
+*.ots.bak
+*.bak-*
