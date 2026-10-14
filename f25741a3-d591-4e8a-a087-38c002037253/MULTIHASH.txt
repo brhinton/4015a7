@@ -1,0 +1,2 @@
+SHA3-512 (sam_min_angle_clahe.png) = 33d9f066c9203ebdf8f90b27ff14586f8736c861b357ee6b3c45c8d32e1a320cbf850811c7fcca8f2f850863490f3fb62f719aa6dbcfda14e9418ea5a3fbd1f6
+BLAKE3 (sam_min_angle_clahe.png) = b04c245de9ab82fa129677a7a4ff5a3d204cb938ac9a450979c45efd7ad7e80e
