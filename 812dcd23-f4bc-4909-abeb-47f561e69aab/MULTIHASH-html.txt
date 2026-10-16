@@ -1,0 +1,2 @@
+SHA3-512 (index.md) = f028146d711f93ff521eb07b94efddb9b99fdffe2c12ae3e8ee5badbe7d11b306a9dd26eca688949745a8f75507f45beacbc3ccbba29ddb9de0721c8efea114b
+BLAKE3 (index.md) = aaff5a101acae7ef3c36acfd4403348b0ef406569f4cb458f0c8a8c5083b5156
