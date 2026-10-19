@@ -1,0 +1,4 @@
+SHA3-512 (aufbau_vol11_no36_1945-09-07_p602_frank_notice.jpg) = 89e0a28dd7647547c9bd28f4aa3927718c42ee75d230dec2e846b884472fbe9055071edf737b4e644384b1ccbbc78211ad749f7052b12ba8f73f6d56416df97f
+BLAKE3 (aufbau_vol11_no36_1945-09-07_p602_frank_notice.jpg) = ea4e8daedf04894a3a9992b6d63e17cd39b02db9bcf577bce868703be21ff431
+SHA3-512 (ich-suche-aufbau-7-september-1945.md) = 2f1e9b3b1ed25e12592dacab0c0d4e003a2499e44abf589ebddd6a1f9b0caff87cad4e97cc2dcc096f850cd87763733cea0706f5a9e0f963f2c55f4877f4e9c3
+BLAKE3 (ich-suche-aufbau-7-september-1945.md) = 53c93fa7d14c64e43f5d67ac9cf1ef82232abdc7641d38781a66c7d3204d88f2
