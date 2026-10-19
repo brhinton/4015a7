@@ -1,0 +1,4 @@
+SHA3-512 (texas-theatre-vertical.jpg) = 15b43cf53b48bea503a1c82feb85d9e0114f48191bd04428b73c9bcf5706d211ea7cd2832014d0dfc6d79eccdb3f01aba31bf54d6a98f77b5294fe3775288e07
+BLAKE3 (texas-theatre-vertical.jpg) = cc20993d85d028aee1cc2fefc3c581e92a9a435e6049793e7a519605cdc450be
+SHA3-512 (unlit-promise.md) = 816c3afd00f4ee7b98e7d57365bdc80c3c7b75f4509e02e97fba6bd283f1b3d261a75f1be306f08390fff258765380f6a706c7964739848e850ea7fde6a69ecf
+BLAKE3 (unlit-promise.md) = 93053d4050ee9fc5d1380dab29bd0e7bb8735b4acdecef9f04c817c14a8e5cca
