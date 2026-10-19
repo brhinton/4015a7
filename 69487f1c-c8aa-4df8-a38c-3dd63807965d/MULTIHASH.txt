@@ -1,0 +1,2 @@
+SHA3-512 (ich-suche-aufbau-7-september-1945.md) = c0b22c9010648016bbc813e1df5d2a991e59bff5d4127a2183ff9b2b9d1b58c1faaa0ca855ce7e6d55f326720f4f61283ae0b513c9c28cb8ccd4888e48b87b96
+BLAKE3 (ich-suche-aufbau-7-september-1945.md) = 2921a1b5f0f4bd1c96ebeff704fef5f85610add7d34b56a5b697cddd2c40a174
