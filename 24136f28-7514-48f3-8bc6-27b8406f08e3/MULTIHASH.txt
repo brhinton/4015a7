@@ -1,0 +1,2 @@
+SHA3-512 (jadwiga-ankiewicz.md) = 1f54664bad9f2fef759fa21dae559b3be19e29fd17cab7afbac82546f5d4cacfbef2ae91465a1d3a8ff7d6b3d2f6b86ba53a327b5e7f9b8209431d14a39a0129
+BLAKE3 (jadwiga-ankiewicz.md) = 9f97a4491d8ad4eb0c582aaf30cacf79cf14b23cc577b63e96c00504c3107f38
