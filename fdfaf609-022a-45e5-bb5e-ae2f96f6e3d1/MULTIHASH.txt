@@ -1,2 +1,0 @@
-SHA3-512 (zqmvhtbxlkrd.jpg) = 61b629f359d11c5a30e3adbe9403df71de81e60bf0dc36291a9aa9b2f287db9cbbcc248417bfd0d5fc5ac072f79eeef6f136cecaf8dd3302c7556f21dea3aa36
-BLAKE3 (zqmvhtbxlkrd.jpg) = 3a2002378f75717b83962bf92ff150f015fdc3212ad4883de6fbcf7f444bd772
