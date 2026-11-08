@@ -1,2 +1,0 @@
-SHA3-512 (measurement-record.txt) = 3c5ab3a11e34d2ec6d16ac808a8f23de0b3b33ee26e573a33222859c95e15bdbb322e4fd9c5d8c7b0ff69f3b8a9b9aa2fe5aea0f46dedf363db435e613ff3f5b
-BLAKE3 (measurement-record.txt) = bbec6fb5b3790e172e50a145e3d9f4e862e7439ed5c5f5713ae4ee32caab7955
