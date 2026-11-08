@@ -1,5 +1,6 @@
 SPECTRAL · MEASUREMENT RECORD
 
+271889191329
   Spectral range       400–1000 nm
   Colour fidelity      residual 0.38 · median 0.24 · 95th percentile 0.73 · 99th percentile 1.13
   Visible match        median 1.30 · 10th percentile 0.88 · 90th percentile 2.23
