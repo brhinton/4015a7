@@ -1,8 +1,0 @@
-SPECTRAL · MEASUREMENT RECORD
-
-a4de4258-613f-430c-bf9a-f95e6894021a
-  Spectral range       400–1000 nm
-  Colour fidelity      0.29
-  Visible match        1.42
-  Near infrared match  0.67
-  Measured             17 November 2026 · 8B7A-FA0A-D128-30F2
